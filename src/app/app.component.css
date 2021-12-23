@@ -1,0 +1,16 @@
+a{
+    background-color: bisque;
+    color: blue;
+    padding: 20px;
+    padding-top: 12px;
+
+    display: inline-block;
+    width: 21.5%;
+grid-column: auto auto auto auto ;
+
+}
+#main{
+    width: 100%;
+    border: 2px solid black;
+
+}
